@@ -1,0 +1,1 @@
+{"msisdn":"66525544","simType":"POSTPAID","name":"Nasruddin Gayasuddin khan","dateOfBirth":"05-07-1992","gender":"M","address":"UdayNagar Surya ager LBS Marg Vikhroli","idNumber":"6694757818"}
